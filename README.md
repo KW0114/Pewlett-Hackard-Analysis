@@ -14,7 +14,7 @@ I started out by creating an ERD to get a clearer picture of what I would be wor
 the tables I was provided with. I identified the primary and foreign keys from each table and 
 used QuickDBD to map out the database for later use.
 
-![screenshot]()
+![screenshot](https://github.com/KW0114/Pewlett-Hackard-Analysis/blob/a2199bf455aaeadd7dd66fb7684a7e07a5d61659/EmployeeDB.png)
 
 
 ### Retirement Tables
