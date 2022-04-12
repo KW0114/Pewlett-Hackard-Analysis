@@ -77,6 +77,12 @@ the most pressing vacancies, they will be alright for a little while.
 * Once I include those born in 1953 though, that's when the number starts to skyrocket. So they will
 not have much time before the vacancies start to pile up.
 
+* In the long run, there will not be enough existing employees to mentor the ones who are going to be
+hired. Even if they promote internally as mentioned before, that will just create the same amount
+of openings as before, just for lower level positions. There is always a chance that their criteria
+for retirement doesn't match what actually happens (i.e. some employees reitre early, others may 
+retire late).
+
 
 
 
